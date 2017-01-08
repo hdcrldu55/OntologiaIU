@@ -1,0 +1,17 @@
+[{
+    "name": "Hoteles",
+    "code": "H"
+},
+{
+    "name": "Iglesias",
+    "code": "C"
+},
+{
+    "name": "Restaurants",
+    "code": "F"
+},
+{
+    "name": "Sitios Culturales",
+    "code": "M"
+}
+]

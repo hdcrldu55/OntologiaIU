@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+255078353.index
+1199782692.index
+1656270440.index
+2043281257.index
+369074805.index

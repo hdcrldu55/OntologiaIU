@@ -1,0 +1,38 @@
+2017-01-07 22:47:39,255 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ec.edu.epn:guiaquito:1.0-SNAPSHOT @ C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\pom.xml.
+2017-01-07 22:47:42,759 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GuiaTesis-0.1/src/main/java
+2017-01-07 22:47:42,760 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GuiaTesis-0.1/src/main/resources
+2017-01-07 22:47:42,773 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GuiaTesis-0.1/src/test/java
+2017-01-07 22:47:44,132 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ec.edu.epn:guiaquito:1.0-SNAPSHOT @ C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\pom.xml.
+2017-01-07 22:47:48,861 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ec.edu.epn:guiaquito:1.0-SNAPSHOT @ C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\pom.xml.
+2017-01-07 22:47:49,788 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:47:49,827 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-07 22:47:49,888 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:47:49,888 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-01-07 22:50:20,897 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ec.edu.epn:guiaquito:1.0-SNAPSHOT @ C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\pom.xml.
+2017-01-07 22:50:21,602 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:50:21,605 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 22:50:21,607 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:50:21,607 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-01-07 22:52:45,432 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:52:45,434 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-07 22:52:45,442 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:52:45,442 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-01-07 22:52:46,832 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:52:46,833 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-07 22:52:46,843 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:52:46,844 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-01-07 22:53:36,340 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ec.edu.epn:guiaquito:1.0-SNAPSHOT @ C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\pom.xml.
+2017-01-07 22:53:36,869 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GuiaTesis-0.1/src/main/java
+2017-01-07 22:53:36,870 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GuiaTesis-0.1/src/main/resources
+2017-01-07 22:53:36,883 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GuiaTesis-0.1/src/test/java
+2017-01-07 22:53:39,273 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-01-07 22:53:39,473 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ec.edu.epn:guiaquito:1.0-SNAPSHOT @ C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\pom.xml.
+2017-01-07 22:53:49,018 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ec.edu.epn:guiaquito:1.0-SNAPSHOT @ C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\pom.xml.
+2017-01-07 22:53:51,098 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:53:51,099 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-07 22:53:51,107 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:53:51,108 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-01-07 22:54:15,175 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:54:15,175 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 22:54:15,177 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 22:54:15,178 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources

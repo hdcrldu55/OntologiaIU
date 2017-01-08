@@ -1,0 +1,22 @@
+prefix BusquedaInteres: <http://www.owl-ontologies.com/OntologiaIU-lite.owl#>
+select ?Profile  ?lastName ?firstName ?email ?birthday ?facebookId
+where {
+?Profile  BusquedaInteres:lastName ?lastName.
+?Profile  BusquedaInteres:firstName ?firstName.
+?Profile  BusquedaInteres:email ?email.
+?Profile  BusquedaInteres:birthday ?birthday.
+?Profile  BusquedaInteres:facebookId ?facebookId.
+FILTER (?facebookId="2").
+}
+
+prefix BusquedaInteres: <http://www.owl-ontologies.com/OntologiaIU-lite.owl#>
+select ?Profile ?User ?lastName ?firstName ?email ?birthday ?facebookId
+where {
+?Profile BusquedaInteres:logged_in_by ?User.
+?Profile  BusquedaInteres:lastName ?lastName.
+?Profile  BusquedaInteres:firstName ?firstName.
+?Profile  BusquedaInteres:email ?email.
+?Profile  BusquedaInteres:birthday ?birthday.
+?Profile  BusquedaInteres:facebookId ?facebookId.
+
+}
