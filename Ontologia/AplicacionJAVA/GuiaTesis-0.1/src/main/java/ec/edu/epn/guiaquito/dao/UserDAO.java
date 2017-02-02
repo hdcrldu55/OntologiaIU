@@ -21,23 +21,12 @@ public class UserDAO extends BaseDAO<User, String> {
 		try {
 			String consultaCrear = "prefix BusquedaInteres: <http://www.owl-ontologies.com/OntologiaIU-lite.owl#>"
 					+ "INSERT DATA"
-					+ "{ <http://www.owl-ontologies.com/OntologiaIU-lite.owl#Profile_"
-					+ user.getFacebookId()
-					+ "> "
-					+ "   BusquedaInteres:LastName  "
-					+ user.getLastName()
-					+ ";"
-					+ "   BusquedaInteres:FirstName "
-					+ user.getFirstName()
-					+ ";"
-					+ "   BusquedaInteres:Birthay   "
-					+ user.getBirthday()
-					+ " ;"
-					+ "   BusquedaInteres:Email     "
-					+ user.getEmail()
-					+ " ;"
-					+ "   BusquedaInteres:FacebookId"
-					+ user.getFacebookId() + "." + "}";
+					+ "{ <http://www.owl-ontologies.com/OntologiaIU-lite.owl#Profile_"+ user.getFacebookId()+ "> "
+					+ "   BusquedaInteres:LastName  "+ user.getLastName()+ ";"
+					+ "   BusquedaInteres:FirstName "+ user.getFirstName()+ ";"
+					+ "   BusquedaInteres:Birthay   "+ user.getBirthday()+ " ;"
+					+ "   BusquedaInteres:Email     "+ user.getEmail()+ " ;"
+					+ "   BusquedaInteres:FacebookId"+ user.getFacebookId() + "." + "}";
 
 			String id = UUID.randomUUID().toString();
 			System.out.println(String.format("Adding %s", id));
