@@ -114,6 +114,13 @@
 		<!--<artifactId>client</artifactId> -->
 		<!--<version>RELEASE</version> -->
 		<!--</dependency> -->
+		
+		<dependency>
+    		<groupId>org.apache.jena</groupId>
+    		<artifactId>apache-jena-libs</artifactId>
+    		<type>pom</type>
+    		<version>3.1.1</version>
+  		</dependency>
 	</dependencies>
 
 	<build>

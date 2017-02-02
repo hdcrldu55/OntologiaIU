@@ -37,11 +37,11 @@
             <property name="hibernate.transaction.jta.platform"
                       value="org.hibernate.service.jta.platform.internal.JBossAppServerJtaPlatform"/>
             <property name="hibernate.ogm.datastore.provider" value="mongodb"/>
-            <!--<property name="hibernate.ogm.datastore.database" value="rest"/>-->
-            <!--<property name="hibernate.ogm.datastore.host" value="127.0.0.1"/>-->
-            <!--<property name="hibernate.ogm.mongodb.port" value="27017"/>-->
-            <!--<property name="hibernate.ogm.datastore.username" value="admin"/>-->
-            <!--<property name="hibernate.ogm.datastore.password" value=""/>-->
+            <property name="hibernate.ogm.datastore.database" value="rest"/>
+            <property name="hibernate.ogm.datastore.host" value="127.0.0.1"/>
+            <property name="hibernate.ogm.mongodb.port" value="27017"/>
+            <property name="hibernate.ogm.datastore.username" value="admin"/>
+            <property name="hibernate.ogm.datastore.password" value="12345"/>
             <property name="hibernate.ogm.datastore.create_database" value="true"/>
         </properties>
     </persistence-unit>
