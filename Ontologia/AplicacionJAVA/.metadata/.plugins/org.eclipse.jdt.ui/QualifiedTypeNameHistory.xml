@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.UUID"/>
+<fullyQualifiedTypeName name="org.apache.jena.update.UpdateProcessor"/>
+<fullyQualifiedTypeName name="org.apache.jena.update.UpdateExecutionFactory"/>
+<fullyQualifiedTypeName name="org.apache.jena.update.UpdateFactory"/>
+<fullyQualifiedTypeName name="org.apache.jena.query.QueryExecution"/>
+<fullyQualifiedTypeName name="org.apache.jena.query.QueryExecutionFactory"/>
+<fullyQualifiedTypeName name="org.apache.jena.query.ResultSet"/>
+<fullyQualifiedTypeName name="org.apache.jena.query.ResultSetFormatter"/>
+</qualifiedTypeNameHistroy>

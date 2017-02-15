@@ -102,25 +102,24 @@
 			<version>RELEASE</version>
 		</dependency>
 
-		<dependency>
+	<dependency>
 			<groupId>org.apache.jena</groupId>
 			<artifactId>apache-jena-libs</artifactId>
 			<type>pom</type>
 			<version>3.1.1</version>
 		</dependency>
-
+		
+		<dependency>
+    <groupId>xml-apis</groupId>
+    <artifactId>xml-apis</artifactId>
+    <version>1.4.01</version>
+</dependency>
 		<!--<dependency> -->
 		<!--<groupId>io.prediction</groupId> -->
 		<!--<artifactId>client</artifactId> -->
 		<!--<version>RELEASE</version> -->
 		<!--</dependency> -->
-		
-		<dependency>
-    		<groupId>org.apache.jena</groupId>
-    		<artifactId>apache-jena-libs</artifactId>
-    		<type>pom</type>
-    		<version>3.1.1</version>
-  		</dependency>
+
 	</dependencies>
 
 	<build>

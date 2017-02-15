@@ -9,7 +9,9 @@ import javax.ejb.Stateless;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
+
 import java.util.List;
+
 
 @Stateless
 @Path("/user")
@@ -48,7 +50,7 @@ public class UserFacade extends BaseFacade<User, String> {
 		return response;
 	}
 
-	@POST
+/*	@POST
 	public Response create(User user) {
 		User created;
 		try {
@@ -58,7 +60,7 @@ public class UserFacade extends BaseFacade<User, String> {
 			return Response.serverError().build();
 		}
 		return Response.ok(created).build();
-	}
+	}*/
 
 	@PUT
 	@Path("{id}")
@@ -98,4 +100,18 @@ public class UserFacade extends BaseFacade<User, String> {
 		}
 		return Response.ok(updated).build();
 	}
+		@POST
+	public Response create(User user) {
+		User created;
+		try {
+			created = userDAO.create(user);
+		} catch (Exception e) {
+			e.printStackTrace();
+			return Response.serverError().build();
+		}
+		return Response.ok(created).build();
+	}
+	
+	  
+	
 }
