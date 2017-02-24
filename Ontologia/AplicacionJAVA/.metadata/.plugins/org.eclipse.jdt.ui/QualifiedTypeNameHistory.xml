@@ -8,4 +8,6 @@
 <fullyQualifiedTypeName name="org.apache.jena.query.QueryExecutionFactory"/>
 <fullyQualifiedTypeName name="org.apache.jena.query.ResultSet"/>
 <fullyQualifiedTypeName name="org.apache.jena.query.ResultSetFormatter"/>
+<fullyQualifiedTypeName name="javax.transaction.UserTransaction"/>
+<fullyQualifiedTypeName name="ec.edu.epn.guiaquito.entities.UserTracking"/>
 </qualifiedTypeNameHistroy>

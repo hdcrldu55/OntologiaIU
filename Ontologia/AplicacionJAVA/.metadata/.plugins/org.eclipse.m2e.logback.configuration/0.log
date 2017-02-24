@@ -837,3 +837,355 @@ java.lang.NullPointerException: null
 2017-02-15 07:53:54,967 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2017-02-15 07:53:54,967 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-02-15 07:53:54,967 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-15 07:54:42,859 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-15 07:54:42,859 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-15 07:54:42,890 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-15 07:54:42,890 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-16 07:05:48,425 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 07:05:48,436 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-16 07:05:48,444 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 07:05:48,444 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-16 19:29:43,180 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 19:29:43,195 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-16 19:29:43,205 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 19:29:43,205 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-16 22:06:50,066 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:06:50,093 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-16 22:06:50,097 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-16 22:06:50,097 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-17 21:33:38,613 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 21:33:38,633 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-17 21:33:38,664 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 21:33:38,664 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-17 23:29:21,125 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 23:29:21,142 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-17 23:29:21,158 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-17 23:29:21,159 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 08:12:36,630 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 08:12:36,646 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 08:12:36,657 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 08:12:36,657 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 19:04:22,022 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 19:04:22,035 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 19:04:22,046 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 19:04:22,046 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 20:30:00,528 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:30:00,559 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 20:30:00,559 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:30:00,559 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 20:35:23,921 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:35:23,929 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 20:35:23,932 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:35:23,932 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 20:35:25,016 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:35:25,018 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 20:35:25,020 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:35:25,021 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 20:41:51,961 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:41:51,963 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 20:41:51,966 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:41:51,966 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 20:41:53,034 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:41:53,036 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 20:41:53,039 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:41:53,039 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 20:43:53,570 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:43:53,573 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 20:43:53,575 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:43:53,575 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 20:53:34,574 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:53:34,576 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 20:53:34,578 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:53:34,579 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 20:53:35,650 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:53:35,651 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 20:53:35,654 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:53:35,654 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 20:56:55,579 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:56:55,581 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 20:56:55,589 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:56:55,589 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 20:56:56,680 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:56:56,681 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 20:56:56,684 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 20:56:56,684 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:00:22,837 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:00:22,839 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:00:22,844 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:00:22,844 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:00:23,924 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:00:23,925 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:00:23,927 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:00:23,927 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:04:29,436 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:04:29,438 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:04:29,441 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:04:29,441 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:04:30,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:04:30,516 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:04:30,520 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:04:30,520 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:16:09,565 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:16:09,567 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:16:09,570 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:16:09,571 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:16:10,664 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:16:10,667 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:16:10,670 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:16:10,670 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:31:34,083 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:31:34,086 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:31:34,088 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:31:34,089 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:31:35,270 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:31:35,271 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:31:35,274 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:31:35,274 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:41:05,974 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:41:05,980 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:41:05,986 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:41:05,986 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:41:07,043 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:41:07,045 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:41:07,047 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:41:07,047 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:43:41,076 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:43:41,078 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:43:41,081 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:43:41,082 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:43:42,157 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:43:42,158 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:43:42,160 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:43:42,161 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:47:07,445 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:47:07,447 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:47:07,449 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:47:07,449 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:56:22,440 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:56:22,442 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:56:22,445 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:56:22,445 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 21:56:23,513 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:56:23,514 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 21:56:23,516 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 21:56:23,517 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 22:02:27,728 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 22:02:27,730 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 22:02:27,734 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 22:02:27,734 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 22:02:28,809 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 22:02:28,810 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 22:02:28,813 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 22:02:28,813 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 22:04:22,404 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 22:04:22,405 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 22:04:22,407 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 22:04:22,407 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-18 22:14:28,145 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 22:14:28,148 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-18 22:14:28,152 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 22:14:28,153 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 07:31:37,727 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:31:37,756 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 07:31:37,789 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:31:37,790 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 07:41:32,886 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:41:32,895 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 07:41:32,899 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:41:32,899 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 07:41:37,656 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:41:37,658 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 07:41:37,666 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:41:37,666 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 07:51:50,067 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:51:50,070 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 07:51:50,073 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:51:50,073 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 07:51:51,186 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:51:51,189 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 07:51:51,191 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:51:51,191 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 07:59:11,779 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:59:11,780 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 07:59:11,783 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:59:11,784 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 07:59:12,871 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:59:12,873 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 07:59:12,878 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 07:59:12,878 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:00:34,781 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:00:34,783 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:00:34,785 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:00:34,785 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:00:35,828 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:00:35,829 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:00:35,831 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:00:35,831 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:03:08,569 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:03:08,571 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:03:08,574 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:03:08,574 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:03:09,646 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:03:09,648 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:03:09,652 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:03:09,652 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:03:20,915 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:03:20,916 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:03:20,918 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:03:20,918 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:06:21,562 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:06:21,565 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:06:21,567 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:06:21,568 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:06:22,639 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:06:22,641 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:06:22,643 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:06:22,643 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:10:52,742 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:10:52,747 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:10:52,754 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:10:52,754 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:10:53,829 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:10:53,833 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:10:53,837 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:10:53,837 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:49:07,577 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:49:07,579 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:49:07,581 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:49:07,581 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:49:08,670 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:49:08,672 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:49:08,676 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:49:08,677 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:51:41,370 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:51:41,371 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:51:41,373 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:51:41,374 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:51:42,448 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:51:42,450 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:51:42,453 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:51:42,453 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:58:14,720 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:58:14,722 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:58:14,724 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:58:14,724 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 08:58:15,748 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:58:15,750 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 08:58:15,751 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 08:58:15,752 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 09:15:20,036 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:15:20,038 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 09:15:20,044 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:15:20,044 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 09:15:21,086 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:15:21,088 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 09:15:21,090 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:15:21,091 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 09:51:01,973 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:51:01,976 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 09:51:01,984 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:51:01,984 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 09:51:03,026 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:51:03,028 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 09:51:03,032 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:51:03,032 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 09:58:23,098 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:58:23,100 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 09:58:23,104 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:58:23,105 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 09:58:34,960 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:58:34,965 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 09:58:34,970 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 09:58:34,971 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:06:51,804 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:06:51,807 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:06:51,809 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:06:51,809 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:06:52,924 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:06:52,927 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:06:52,931 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:06:52,932 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:11:39,401 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:11:39,402 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:11:39,404 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:11:39,404 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:11:40,446 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:11:40,449 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:11:40,455 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:11:40,455 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:21:55,176 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:21:55,177 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:21:55,179 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:21:55,179 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:21:56,213 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:21:56,215 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:21:56,232 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:21:56,232 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:23:47,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:23:47,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:23:47,241 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:23:47,241 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:23:48,331 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:23:48,333 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:23:48,336 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:23:48,336 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:24:49,278 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:24:49,282 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:24:49,287 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:24:49,287 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:24:50,350 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:24:50,353 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:24:50,357 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:24:50,357 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:26:57,997 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:26:57,999 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:26:58,001 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:26:58,001 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:26:59,084 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:26:59,087 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:26:59,090 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:26:59,090 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:27:12,645 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:27:12,648 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 10:27:12,651 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:27:12,651 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 10:32:42,239 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:32:42,239 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-21 10:32:42,241 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:32:42,241 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 18:35:38,406 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 18:35:38,418 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 18:35:38,427 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 18:35:38,427 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 18:38:50,306 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 18:38:50,315 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 18:38:50,318 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 18:38:50,318 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 20:35:15,773 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 20:35:15,776 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 20:35:15,781 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 20:35:15,782 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 20:50:18,724 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 20:50:18,726 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 20:50:18,729 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 20:50:18,729 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 21:08:44,340 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 21:08:44,346 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 21:08:44,348 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 21:08:44,349 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 21:45:32,455 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 21:45:32,458 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 21:45:32,461 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 21:45:32,461 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 21:50:48,322 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 21:50:48,324 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 21:50:48,327 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 21:50:48,328 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-21 21:52:32,144 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 21:52:32,145 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-21 21:52:32,148 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 21:52:32,149 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
+2017-02-24 07:55:38,825 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 07:55:38,850 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 07:55:38,862 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 07:55:38,862 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\HDCR\Documents\GitHub\OntologiaIU\Ontologia\AplicacionJAVA\GuiaTesis-0.1\src\test\resources
